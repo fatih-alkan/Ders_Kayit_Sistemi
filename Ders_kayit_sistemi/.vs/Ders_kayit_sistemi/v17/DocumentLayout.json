@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|c:\\users\\fatih\\source\\repos\\ders_kayit_sistemi\\ders_kayit_sistemi\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|solutionrelative:ders_kayit_sistemi\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|c:\\users\\fatih\\source\\repos\\ders_kayit_sistemi\\ders_kayit_sistemi\\yeniders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|solutionrelative:ders_kayit_sistemi\\yeniders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\ders_kayit_sistemi\\yeniders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{199C7438-41AB-41E6-AE97-03C5BE6350BC}|Ders_kayit_sistemi\\Ders_kayit_sistemi.csproj|solutionrelative:ders_kayit_sistemi\\yeniders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "derskayit.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\derskayit.cs",
+              "RelativeDocumentMoniker": "Ders_kayit_sistemi\\derskayit.cs",
+              "ToolTip": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\derskayit.cs",
+              "RelativeToolTip": "Ders_kayit_sistemi\\derskayit.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "yeniders.cs",
+              "DocumentMoniker": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\yeniders.cs",
+              "RelativeDocumentMoniker": "Ders_kayit_sistemi\\yeniders.cs",
+              "ToolTip": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\yeniders.cs",
+              "RelativeToolTip": "Ders_kayit_sistemi\\yeniders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:47:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "yeniders.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\yeniders.cs",
+              "RelativeDocumentMoniker": "Ders_kayit_sistemi\\yeniders.cs",
+              "ToolTip": "C:\\Users\\fatih\\source\\repos\\Ders_kayit_sistemi\\Ders_kayit_sistemi\\yeniders.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ders_kayit_sistemi\\yeniders.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:07:02.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

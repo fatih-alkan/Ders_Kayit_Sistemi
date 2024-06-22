@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="alinandersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="anaekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="danismangiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="danismanpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dersbilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="derskayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencipanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yeniders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yoneticigiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yoneticipanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
